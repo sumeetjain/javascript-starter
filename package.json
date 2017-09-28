@@ -1,0 +1,16 @@
+{
+  "instructions": "You can replace some of the values below with your actual project's information. The only rule is that the 'name' of your project can only contain lowercase characters, numbers, and dashes.",
+
+  "name":         "my-project",
+  "description":  "Replace this with a brief description of your project.",
+  "author":       "Your Name",
+  "version":      "1.0.0",
+
+  "scripts": {
+    "start": "node main.js"
+  },
+
+  "dependencies": {
+    "readline-sync": "^1.4.7"
+  }
+}
