@@ -50,10 +50,6 @@ That line of code will ask your user what their favorite color is. And it will s
 
 (Asking users for their input is a pretty common, fundamental requirement when building programs. That's the only reason why we've included this line of code to start off. If you were building something that didn't need to ask users for their input, then this line would not be necessary.)
 
-### .gitignore
-
-The **.gitignore** file is a bit hard to explain. It's not important for a brand new developer to understand this file's purpose, so we're choosing to skip its explanation. If you're curious, you can always ask someone to explain. But it's safe to ignore this file for now.
-
 ---
 
 ## Instructions
