@@ -26,7 +26,7 @@ The vital files are:
 
 ### package-lock.json
 
-While the first file above (**package.json**) is meant for _you_ to record your project's details, this file (**package-lock.json**) is meant for the _system_ to record details, based on what you define in **package.json**.
+Whereas the file above (**package.json**) is meant for _you_ to record your project's details, this file (**package-lock.json**) is meant for the _system_ to record details, based on what you define in **package.json**.
 
 So you should never modify or remove **package-lock.json**. It's meant only for the system to read and modify. In fact, it's fine if you get in the habit of ignoring **package-lock.json** completely.
 
@@ -43,12 +43,12 @@ var ask = require('readline-sync');
 Strictly speaking, this line of code is not vital. We have included it to make your start with coding in JavaScript easier. This line lets you write code like this:
 
 ```js
-var favorite_color = ask.question("What's your favorite color?")
+var favorite_color = ask.question("What is your favorite color?")
 ```
 
 That line of code will ask your user what their favorite color is. And it will store their reply inside of a "variable" named `favorite_color`.
 
-Asking users for their input is a pretty common, fundamental requirement when building programs. That's the only reason why we've included this line of code to start off. If you were building something that didn't need to ask users for their input, then this line would not be necessary.
+(Asking users for their input is a pretty common, fundamental requirement when building programs. That's the only reason why we've included this line of code to start off. If you were building something that didn't need to ask users for their input, then this line would not be necessary.)
 
 ### .gitignore
 
@@ -91,7 +91,7 @@ npm WARN my-project@1.0.0 No license field.
 
 These warnings are 100% okay, and it is safe to ignore them.
 
-##### 2. 'node_modules/'
+##### 2. node_modules/
 
 You might see a new folder called **node_modules/** appear in your files. This is the folder where the system tools you just installed are stored. It is best to ignore this folder completely.
 
@@ -110,8 +110,8 @@ This will run the **main.js** program. Since there's almost nothing in that file
 > node main.js
 ```
 
-Your actual message will probably be a little bit different, but essentially this is the system telling you that it received your instructions to start the program and is running the **main.js** file.
+Your actual might be a little bit different, but essentially this is the system telling you that it received your instructions to start the program and is running the **main.js** file.
 
 ### 4. Have fun!
 
-Now you can begin coding a program! Add your code to **main.js** and, after saving the file, run `npm start` to see what your program does. Repeat this process until you're satisfied or have a question to ask.
+Now you can begin coding a program! Add your code to **main.js** and–after saving the file–run `npm start` to see what your program does. Repeat this process until you're satisfied or have a question to ask.
