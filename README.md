@@ -3,11 +3,11 @@ JavaScript Starter
 
 Welcome to the wonderful world of **JavaScript**!
 
-As with most programming languages, JavaScript projects require a little bit of *boilerplate* to get started. That is, a JavaScript project requires a couple predefined files to initialize the system that runs your program.
+As with most programming languages, JavaScript projects require a little bit of *boilerplate* to get started. That is, a JavaScript project requires a few predefined files to initialize the system that runs your program.
 
-This repository of files is exactly that: The starter files needed to begin a JavaScript project.
+This repository of files is exactly that: _The starter files needed to begin a JavaScript project._
 
-The words you're reading right now are in a file called **README.md**. The "md" file extension stands for "Markdown", but that is not an important detail. This file itself is not really vital boilerplate for JavaScript projects. It's just included as an explanation of the vital files.
+(The words you're reading right now are in a file called **README.md**. The "md" file extension stands for "Markdown", but that is not an important detail. This file itself is not really vital boilerplate for JavaScript projects. It's just included as an explanation of the vital files.)
 
 ---
 
